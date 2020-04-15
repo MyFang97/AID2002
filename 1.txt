@@ -1,0 +1,12 @@
+绝对路径：/home/tarena/下载/file
+相对路径：../下载/file
+
+假设在主目录下工作，
+/--home--tarena---这里工作
+--usr---local
+此时根目录下有usr目录中有个local，
+如何用绝对路径和相对路径表达？
+绝对路径：/home/tarena/usr/local
+相对路径：../../../usr/local
+
+axiba
